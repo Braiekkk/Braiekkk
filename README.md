@@ -4,9 +4,6 @@
 
 ### Backend Software Engineer • AI & Machine Learning Enthusiast • Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Backend+Developer;AI+%26+Deep+Learning+Enthusiast;Computer+Vision+Developer;Cloud+%26+Distributed+Systems;Always+Learning+Something+New)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
 
 </div>
 
