@@ -89,46 +89,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Braiekkk&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braiekkk&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Braiekkk&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-
-### 💻 Competitive Programming
-
-Collection of algorithms and data structures implementations, problem-solving solutions, and optimization techniques.
-
----
-
-# 📚 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Kubernetes
-- System Design
-- Distributed Systems
-- MLOps
-- AWS Cloud Services
-
----
-
 # 💡 Quote
 
 > "No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful. One day, we'll look back at where we started and be amazed by how far we've come."
