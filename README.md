@@ -29,11 +29,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/braiek-rayen-b47681258/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:braiekrayen555@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -50,7 +50,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ---
 
@@ -60,7 +60,10 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)4
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
@@ -73,22 +76,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
@@ -106,63 +93,23 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Braiekkk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braiekkk&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
 
-[![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Braiekkk&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 AI Visual Inspection System
-
-Computer Vision project that automatically detects soldering defects on electronic boards using deep learning models.
-
----
-
-### ☁️ Cloud Backend Services
-
-RESTful backend services built with Spring Boot and NestJS featuring authentication, authorization, database integration, and cloud deployment.
-
----
-
-### 📅 Meeting Management Platform
-
-Enterprise-grade meeting management system supporting multiple meeting types, role-based permissions, JWT authentication, email notifications, and reporting.
-
----
 
 ### 💻 Competitive Programming
 
@@ -184,16 +131,7 @@ Collection of algorithms and data structures implementations, problem-solving so
 
 # 💡 Quote
 
-> *"The best way to predict the future is to build it."*
+> "No matter how ridiculous the odds may seem, within us resides the power to overcome these challenges and achieve something beautiful. One day, we'll look back at where we started and be amazed by how far we've come."
+>
+> — Technoblade (2022)
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories, open issues, or connect with me.
-
-**Happy Coding! 🚀**
-
-</div>
